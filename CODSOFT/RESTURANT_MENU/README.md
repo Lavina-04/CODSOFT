@@ -3,7 +3,7 @@
  filters and pricing.
  
 # View in figma
-  [Click Here](https://www.figma.com/design/pxLI31PkkLCDZYU6JxcJ6T/plant-store-app?node-id=0-1&t=mIZu6Rr96uGUvItv-1)
+  [Click Here](https://www.figma.com/design/845HUhRHAOJcw5oRNqhMO4/resturant-menu?node-id=0-1&t=V68IrqhOmQ3aqsIr-1)
   
 # UX Overview 
   - Problem Solved:
