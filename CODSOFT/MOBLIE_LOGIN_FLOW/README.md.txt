@@ -15,6 +15,4 @@ A clean and intuitive mobile login interface focused on a smooth and secure user
    Forget password and Sign up for easy recovery and onboarding
    Mobile friendly spacing and touch targets.
    
-# Preview 
- [Mobile Login Flow](design3.png)
    
