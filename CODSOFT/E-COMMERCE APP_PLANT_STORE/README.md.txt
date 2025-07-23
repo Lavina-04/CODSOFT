@@ -2,7 +2,7 @@
  This is a clean and modern UI design for an online plant store. It includes homepage, product cards, and shopping interface - perfect for E-commerce inspiration.
 
 # View in Figma 
- [ Click here to view the design ] (https://www.figma.com/design/pxLI31PkkLCDZYU6JxcJ6T/plant-store-app?node-id=0-1&t=pxHwqC87p1Ppl6qJ-1)
+ [ Click here to view the design ] (https://www.figma.com/proto/pxLI31PkkLCDZYU6JxcJ6T/plant-store-app?node-id=0-1&t=mIZu6Rr96uGUvItv-1)
  
 # UX Overview 
 - Problem Solved:
