@@ -1,7 +1,10 @@
 # Design2 - Restaurant Menu 
  A stylish and user-friendly interface for a modern restaurant. The design includes a visual menu with high-quality food images, category       
  filters and pricing.
-
+ 
+# View in figma
+  [Click Here](https://www.figma.com/design/pxLI31PkkLCDZYU6JxcJ6T/plant-store-app?node-id=0-1&t=mIZu6Rr96uGUvItv-1)
+  
 # UX Overview 
   - Problem Solved:
    Traditional menus lack interactivity and are hard to navigate on mobile.
@@ -14,4 +17,4 @@
     Large food thumbnails for visual engagement.
     Simple and thumbnails layout optimized for mobile.
     Easy access to pricing and Add to cart button.
-  (https://www.figma.com/design/pxLI31PkkLCDZYU6JxcJ6T/plant-store-app?node-id=0-1&t=mIZu6Rr96uGUvItv-1)
+
